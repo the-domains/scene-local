@@ -1,0 +1,28 @@
+name: scene.LOCAL
+favicon: null
+layout_spectrum: 0.02848158939741552
+typography_spectrum: 0.5377956156153232
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.19496685080230236
+  lightness: 0.3046652255579829
+  saturation: 0.019037923775613308
+  rhythmicContrast: 0.15343229449354112
+purpose: []
